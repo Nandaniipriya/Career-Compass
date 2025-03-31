@@ -1,0 +1,23 @@
+# Core dependencies
+streamlit>=1.44.0
+pandas>=2.2.3
+plotly>=6.0.1
+
+# LangChain and LLM dependencies
+langchain>=0.3.22
+langchain-core>=0.3.49
+langchain-groq>=0.3.2
+langgraph>=0.3.21
+
+# Web scraping and parsing
+beautifulsoup4>=4.13.3
+duckduckgo-search>=7.5.5
+html2text>=2024.2.26
+trafilatura>=2.0.0
+requests>=2.32.3
+
+# Environment and configuration
+python-dotenv>=1.1.0
+
+# Python version requirement
+# Requires Python >= 3.11
